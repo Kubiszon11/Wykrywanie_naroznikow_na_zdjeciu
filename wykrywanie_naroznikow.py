@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-obraz = cv2.imread('sto.jpg')
+obraz = cv2.imread('nazwa_pliku.jpg')
 
 szerokosc = obraz.shape[0]
 wysokosc = obraz.shape[1]
